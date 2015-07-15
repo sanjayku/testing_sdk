@@ -7,7 +7,7 @@
                           Permission is hereby granted to everyone in VVDN Technologies
                           to use the Software without restriction, including without
                           limitation the rights to use, copy, modify, merge, publish,
-                          distribute, distribute with modifications.
+                          distribute, distribute with modifications.helloooooooooooo
  */
 
 
